@@ -10,7 +10,7 @@ Some help was taken from the SpringBoard's tutorial which can be found [here](ht
 
 
 
-Here, we’ll focus on R packages useful in understanding and extracting insights from the text and text mining packages.
+R packages useful in understanding and extracting insights from the text and text mining packages.
 
 
 1. RSQLite, ‘SQLite’ Interface for R
