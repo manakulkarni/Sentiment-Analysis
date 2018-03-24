@@ -13,10 +13,10 @@ Some help was taken from the SpringBoard's tutorial which can be found [here](ht
 Here, we’ll focus on R packages useful in understanding and extracting insights from the text and text mining packages.
 
 
-RSQLite, ‘SQLite’ Interface for R
-tm, framework for text mining applications
-SnowballC, text stemming library
-Wordcloud, for making wordcloud visualizations
-Syuzhet, text sentiment analysis
-ggplot2, one of the best data visualization libraries
-quanteda, N-grams
+1. RSQLite, ‘SQLite’ Interface for R
+2. tm, framework for text mining applications
+3. SnowballC, text stemming library
+4. Wordcloud, for making wordcloud visualizations
+5. Syuzhet, text sentiment analysis
+6. ggplot2, one of the best data visualization libraries
+7. quanteda, N-grams
